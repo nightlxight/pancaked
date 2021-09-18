@@ -1,2 +1,1 @@
-pancake = "pancake"
-print(pancake)
+foods = ["cake", "pancake"]
