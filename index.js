@@ -9,3 +9,5 @@ function cakeFunction() {
 }
 
 let num = 0;
+
+cakeFunction();
