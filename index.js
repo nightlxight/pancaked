@@ -7,3 +7,5 @@ function cakeFunction() {
     let cake = cakes[Math.floor(Math.random() * cakes.length)];
     console.log(cake);
 }
+
+let num = 0;
