@@ -1,4 +1,5 @@
 foods = ["cake", "pancake"]
+global cake
 cake, pancake = foods
 exclamation = "!"
 awesome = "awesome"
