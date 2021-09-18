@@ -1,1 +1,2 @@
 pancake = "pancake"
+print(pancake)
